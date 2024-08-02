@@ -9,3 +9,14 @@ node index.js
 Для возврата к исходному коду ksholla20/mxgraph-vsdx нужно из mxgraph-vsdx-test\node_modules\mxgraph-vsdx\package.json 
 
 удалить строку: "type": "module"
+
+Что делал:
+
+Создал на компе проект mxgraph-vsdx-test: npm init –y 
+
+npm install ksholla20/mxgraph-vsdx
+
+Добавил README, index.js, перенес проект в репозитарий:  
+
+mxgraph-vsdx-test>git push -u origin main
+
