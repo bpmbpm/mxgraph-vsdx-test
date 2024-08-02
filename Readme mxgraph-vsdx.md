@@ -1,4 +1,4 @@
-Оригинал Readme от mxgraph-vsdx https://github.com/ksholla20/mxgraph-vsdx
+Original Readme.md from mxgraph-vsdx https://github.com/ksholla20/mxgraph-vsdx
 
 # mxgraph-vsdx
 This module converts VSDX files to mxgraph canvas
